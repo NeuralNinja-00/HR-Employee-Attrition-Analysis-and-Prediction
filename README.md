@@ -22,8 +22,8 @@ Visualize the relationship between various factors (like salary and department) 
 Select relevant features for the model: satisfaction_level, average_montly_hours, promotion_last_5years, and salary.
 Convert categorical variables (such as salary) into numerical format using label encoding.
 
-**Data Splitting:
-**
+**Data Splitting:**
+
 Split the dataset into training and testing sets to evaluate the model's performance.
 
 **Model Training and Evaluation:**
